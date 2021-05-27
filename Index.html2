@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>CUBA</h1>
+</div>
+<h1 style="background-color:orange;">¿Qué bolá contigo?</h1>
+  
+  <h1 style="border: 2px solid Tomato;">Recetas de cocina</h1>
+  
+  <h1 style="background-color:rgba(255, 99, 71, 0.5);">1. Ropa Vieja es el plato típico cubano más representativo. Su nombre proviene de su aspecto. El origen exacto de esta comida es un misterio, algunos dicen que llegó a Cuba de las Islas Canarias, aunque no hay referencias históricas de este hecho.</h1>
+  
+  <img src="https://img.chavetas.es/albums/cuba08/comidacubana02_800.jpg" alt="Flowers in Chania" width="460" height="345">
+  
+   <h1 style="background-color:rgba(255, 99, 71, 0.5);">2. Es uno de los platos preferidos en Cuba. El arroz para este plato es el arroz de grano corto de estilo Valenciano, el mismo que se utiliza para la paella. A diferencia de ésta no se usa el tradicional azafrán sino que en su lugar usan el Achiote Petróleo, para dar la coloración amarilla.</h1>
+   
+    <img src="https://img.chavetas.es/albums/cuba08/comidacubana03_800.jpg" alt="Flowers in Chania" width="460" height="345">
+    
+    <h1 style="background-color:rgba(255, 99, 71, 0.5);">3. Ningún otro plato típico cubano, es mejor representado que los Moros y Cristianos. Los frijoles negros son servidos con arroz blanco esponjoso. Algunos cubanos sirven arroz con frijoles separados, y otros lo mezclan. Puedes pedirlo de ambas formas</h1>
+    
+      <img src="https://img.chavetas.es/albums/cuba08/comidacubana04_800.jpg" alt="Flowers in Chania" width="460" height="345">
+  
+  <h1 style="background-color:rgba(255, 99, 71, 0.5);">4. Hay un montón de formas de servirte el sándwich cubano, pero uno sólo es el tradicional. El auténtico sándwich cubano no llevará mayonesa, tomates, lechugas, cebollas, pimientos o jalapeños. La carne de cerdo le da el auténtico sabor.</h1>
+  
+  <img src="https://img.chavetas.es/albums/cuba08/comidacubana05_398.jpg" alt="Flowers in Chania" width="460" height="345">
+  
+  
+   <h1 style="background-color:rgba(255, 99, 71, 0.5);">5. Vaca frita, este es un plato típico cubano, debido a su textura crujiente. Es muy parecido a la Ropa Vieja, pero sin tomates. Lleva cebolla, ajo, limón, sal y res.</h1>
+   
+     <img src="https://img.chavetas.es/albums/cuba08/comidacubana07_800.jpg" alt="Flowers in Chania" width="460" height="345">
+
+ 
+</body>
+</html>
